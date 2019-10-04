@@ -1,7 +1,7 @@
 # FOREST-GREEN-DESKTOP-MOBILE-ROUNDCUBE-SKINS
 This repository holds the source code of Forest Green Desktop and Mobile Roundcube Skins
 # How to install
-Read the instruction to activate the RoundcubeSkins : [Instructions to Use](https://roundcubeskins.com/activation-guide/)  
+Read the instruction to activate the RoundcubeSkins : [Instructions to Use](../../wiki/ACTIVATION)
 
 
 # How do they look #
